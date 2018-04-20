@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <item type="id" name="wishSelData"></item>
+    <item type="id" name="wishSelflag"></item>
+    <item type="id" name="img"></item>
+    <item type="id" name="txt"></item>
+</resources>

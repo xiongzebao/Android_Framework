@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#11ffff00"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <!--课程样例展示部分顶部-->
+    <RelativeLayout
+        android:background="#f00"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:text="全部课程"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/showPlaylistBtn"
+            android:onClick="onClick"
+            android:text="全部"
+            android:gravity="center"
+
+            android:layout_marginRight="10dp"
+            android:drawablePadding="8dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <!-- 课程样例展示中间部分-->
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:background="#aaa"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:dividerHeight="10dp" />
+
+</LinearLayout>

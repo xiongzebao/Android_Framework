@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Framework.iml" filepath="$PROJECT_DIR$/Framework.iml" />
-      <module fileurl="file://G:\work\work\Framework\androidlibTest\androidlib.iml" filepath="G:\work\work\Framework\androidlibTest\androidlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidlibTest/androidlibTest.iml" filepath="$PROJECT_DIR$/androidlibTest/androidlibTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/jellyrefresh/jellyrefresh.iml" filepath="$PROJECT_DIR$/jellyrefresh/jellyrefresh.iml" />
